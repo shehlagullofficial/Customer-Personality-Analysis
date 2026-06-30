@@ -1,1 +1,1 @@
-# Customer-Persoaity-Analysis
+# Customer-Personality-Analysis
